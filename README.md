@@ -1,8 +1,8 @@
-Name:
+Name: Muhib Noorali
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes, Compilation and Run were both successful
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Yes, Unti test run was successfull
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
